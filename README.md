@@ -14,7 +14,7 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 The page will reload when you make changes.\
 You may also see any lint errors in the console.
 
-I was also run into a node error. I needed to run this:
+I also ran into a node error multiple times. I needed to run this:
 
 ### 'set NODE_OPTIONS=--openssl-legacy-provider'
 
